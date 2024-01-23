@@ -4,7 +4,7 @@ Hi 👋 My name is Kyle
 Developer and CS Student
 ------------------------
 
-I'm a self taught programmer who's been programming for 4 years. I love learning new technology and I'm always trying out new things!
+I'm a self taught programmer who's been programming for 5 years. I love learning new technology and I'm always trying out new things!
 
 *   🌍  I'm based in Newfoundland
 *   🖥️  See my portfolio at [kyledenief.me](http://kyledenief.me)
