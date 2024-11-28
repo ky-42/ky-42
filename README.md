@@ -17,16 +17,16 @@
 
 <h3 align="center">2048</h3>
 <p align="center">
-  The current score is 52.
+  The current score is 60.
 </p>
 
 <p align="center">
   &nbsp;&nbsp;
-  <a href="http://readme.kyledenief.me/click/3">Left</a>
+  <a href="https://readme.kyledenief.me/click/3">Left</a>
   &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="http://readme.kyledenief.me/click/1">Up</a>
+  <a href="https://readme.kyledenief.me/click/1">Up</a>
   &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="http://readme.kyledenief.me/click/4">Right</a>
+  <a href="https://readme.kyledenief.me/click/4">Right</a>
 </p>
 
 <table align="center">
@@ -49,7 +49,7 @@
 
 <td align="center">
   </br>
-  <strong>4</strong>
+  <strong>8</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -81,7 +81,7 @@
 
 <td align="center">
   </br>
-  <strong>4</strong>
+  <strong>0</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -113,7 +113,7 @@
 
 <td align="center">
   </br>
-  <strong>0</strong>
+  <strong>2</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -161,4 +161,4 @@
 
 </table>
 
-<p align="center"><a href="http://readme.kyledenief.me/click/2">Down</a></p>
+<p align="center"><a href="https://readme.kyledenief.me/click/2">Down</a></p>
