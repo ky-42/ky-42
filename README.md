@@ -22,11 +22,11 @@
 
 <p align="center">
   &nbsp;&nbsp;
-  <a href="https://readme.kyledenief.me/click/3">Left</a>
+  <a href="https://readme2048.kyledenief.me/click/3">Left</a>
   &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://readme.kyledenief.me/click/1">Up</a>
+  <a href="https://readme2048.kyledenief.me/click/1">Up</a>
   &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://readme.kyledenief.me/click/4">Right</a>
+  <a href="https://readme2048.kyledenief.me/click/4">Right</a>
 </p>
 
 <table align="center">
@@ -161,4 +161,4 @@
 
 </table>
 
-<p align="center"><a href="https://readme.kyledenief.me/click/2">Down</a></p>
+<p align="center"><a href="https://readme2048.kyledenief.me/click/2">Down</a></p>
