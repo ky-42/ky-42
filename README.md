@@ -17,16 +17,16 @@
 
 <h3 align="center">2048</h3>
 <p align="center">
-  The current score is 1936 and the highscore is 1656 which was set on 03 Sep, 2025.
+  The current score is 4.
 </p>
 
 <p align="center">
   &nbsp;&nbsp;
-  <a href="https://readme2048.kyledenief.me/click/3">Left</a>
+  <a href="http://127.0.0.1:5000/click/3">Left</a>
   &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://readme2048.kyledenief.me/click/1">Up</a>
+  <a href="http://127.0.0.1:5000/click/1">Up</a>
   &nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://readme2048.kyledenief.me/click/4">Right</a>
+  <a href="http://127.0.0.1:5000/click/4">Right</a>
 </p>
 
 <table align="center">
@@ -35,10 +35,35 @@
 
 <td align="center">
   </br>
-  <strong>8</strong>
+  <strong>4</strong>
   </br>
   <img width="58" height="0">
 </td>
+
+<td align="center">
+  </br>
+  <strong>2</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>2</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>4</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+</tr>
+
+<tr>
 
 <td align="center">
   </br>
@@ -61,9 +86,23 @@
   <img width="58" height="0">
 </td>
 
+<td align="center">
+  </br>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
 </tr>
 
 <tr>
+
+<td align="center">
+  </br>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
 
 <td align="center">
   </br>
@@ -74,45 +113,6 @@
 
 <td align="center">
   </br>
-  <strong>32</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>16</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>0</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-  </br>
-  <strong>4</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>256</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
   <strong>0</strong>
   </br>
   <img width="58" height="0">
@@ -131,14 +131,14 @@
 
 <td align="center">
   </br>
-  <strong>2</strong>
+  <strong>0</strong>
   </br>
   <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <strong>8</strong>
+  <strong>0</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -161,4 +161,4 @@
 
 </table>
 
-<p align="center"><a href="https://readme2048.kyledenief.me/click/2">Down</a></p>
+<p align="center"><a href="http://127.0.0.1:5000/click/2">Down</a></p>
