@@ -17,7 +17,7 @@
 
 <h3 align="center">2048</h3>
 <p align="center">
-  The current score is 608.
+  The current score is 624.
 </p>
 
 <p align="center">
@@ -32,6 +32,13 @@
 <table align="center">
 
 <tr>
+
+<td align="center">
+  </br>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
 
 <td align="center">
   </br>
@@ -50,13 +57,6 @@
 <td align="center">
   </br>
   <strong>4</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>0</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -99,6 +99,13 @@
 
 <td align="center">
   </br>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
   <strong>16</strong>
   </br>
   <img width="58" height="0">
@@ -106,14 +113,7 @@
 
 <td align="center">
   </br>
-  <strong>8</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>8</strong>
+  <strong>16</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -138,21 +138,21 @@
 
 <td align="center">
   </br>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>4</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
   <strong>8</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>0</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>0</strong>
   </br>
   <img width="58" height="0">
 </td>
