@@ -17,7 +17,7 @@
 
 <h3 align="center">2048</h3>
 <p align="center">
-  The current score is 128 and the highscore is 652 which was set on 22 May, 2026.
+  The current score is 168 and the highscore is 652 which was set on 22 May, 2026.
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 <td align="center">
   </br>
-  <strong>4</strong>
+  <strong>8</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -49,24 +49,6 @@
 
 <td align="center">
   </br>
-  <strong>0</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>2</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-  </br>
   <strong>4</strong>
   </br>
   <img width="58" height="0">
@@ -74,21 +56,7 @@
 
 <td align="center">
   </br>
-  <strong>16</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>0</strong>
-  </br>
-  <img width="58" height="0">
-</td>
-
-<td align="center">
-  </br>
-  <strong>0</strong>
+  <strong>2</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -106,14 +74,14 @@
 
 <td align="center">
   </br>
-  <strong>16</strong>
+  <strong>32</strong>
   </br>
   <img width="58" height="0">
 </td>
 
 <td align="center">
   </br>
-  <strong>4</strong>
+  <strong>2</strong>
   </br>
   <img width="58" height="0">
 </td>
@@ -145,7 +113,39 @@
 
 <td align="center">
   </br>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
   <strong>2</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+  </br>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>0</strong>
+  </br>
+  <img width="58" height="0">
+</td>
+
+<td align="center">
+  </br>
+  <strong>0</strong>
   </br>
   <img width="58" height="0">
 </td>
